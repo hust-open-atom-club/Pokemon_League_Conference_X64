@@ -1,0 +1,15 @@
+id: software-security-lab
+
+name: 神奇宝贝联盟大会
+
+type: advanced
+
+award:
+  emoji: Pokemon
+
+modules:
+  - id: reverse-engineering
+    icon: Dragonite
+    
+  - id: mitigation-bypass
+    icon: Charizard
