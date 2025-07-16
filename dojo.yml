@@ -9,7 +9,7 @@ award:
 
 modules:
   - id: reverse-engineering
-    icon: Dragonite
+    icon: 0149_Dragonite
     
   - id: mitigation-bypass
     icon: 0006_Charizard
